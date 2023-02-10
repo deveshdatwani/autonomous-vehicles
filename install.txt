@@ -1,5 +1,5 @@
 Set up instructions.
 
-1. Clone this repository to your local system
+1. Clone this repository on to your local system
 2. Clone the gazebo world collection repository into the base directory of this repository - link https://github.com/leonhartyao/gazebo_models_worlds_collection
 3. Edit the launch file in city_launch package in order to modify the PATH to the world file 'small_city.world' in the gazebo_models_worlds_collectio/world folder
