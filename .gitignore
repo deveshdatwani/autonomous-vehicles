@@ -2,4 +2,5 @@ build/
 devel/
 venv/
 gazebo_models_worlds_collection/
-src/gazebo_models_worlds_collection-master/
+src/prius/models 
+src/prius/worlds
